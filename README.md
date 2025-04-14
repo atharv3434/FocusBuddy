@@ -26,9 +26,7 @@ Session tracking and summary saved in a text file.
 Audible bell sound (optional on certain systems) or simulated output.
 
 🧱 Project Structure
-cpp
-Copy
-Edit
+
 FocusBuddy/
 ├── FocusBuddy.java         // Main class
 ├── TimerManager.java       // Handles countdown logic
