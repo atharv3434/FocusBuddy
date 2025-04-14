@@ -1,7 +1,7 @@
 # FocusBuddy
 
 
-📚 FocusBuddy – A Pomodoro Timer App (Java Console Project)
+📚 FocusBuddy – A Pomodoro Timer App 
 🚀 Project Description
 FocusBuddy is a productivity-focused console application built using core Java. It helps students and professionals implement the Pomodoro Technique to manage their study/work time more effectively. The app cycles between focused work sessions and short/long breaks.
 
